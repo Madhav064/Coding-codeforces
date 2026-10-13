@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Whitelist directories so Git can search inside them
+!*/
+
+# Whitelist .gitignore
+!.gitignore
+
+# Whitelist C++ source files
+!*.cpp
